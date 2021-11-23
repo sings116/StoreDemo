@@ -18,7 +18,7 @@ public class Demo {
 			//At this point you will be having list of properties 
 			//whose guarantees are not defined 
 			//You could iterate the proeprties component node here.
-		//	System.out.println(primPropList);
+		    System.out.println(primPropList);
 		}
 		
 		String x="123|456|789|456";
