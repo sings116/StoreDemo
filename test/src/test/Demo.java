@@ -8,7 +8,7 @@ public class Demo {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		Object[] primaryProp= {"123","456","789","900","458"};
+		Object[] primaryProp1= {"123","456","789","900","458"};
 		Object[] guarProp= {"123","123","789","789"};
 		ArrayList<String> primPropList = new ArrayList(Arrays.asList(primaryProp));
 		ArrayList<String> guarPropList = new ArrayList(Arrays.asList(guarProp));
