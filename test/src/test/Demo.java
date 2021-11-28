@@ -27,4 +27,8 @@ public class Demo {
 
 	}
 
+static void println()
+{
+	   System.out.println(primPropList);
+}
 }
