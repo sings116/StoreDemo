@@ -5,3 +5,5 @@ Red
 Green
 Blue
 Yellow
+Pink
+Magenta
