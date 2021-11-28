@@ -26,6 +26,11 @@ public class Demo {
 		System.out.println(primPropList2);
 
 	}
+	
+	static void show ()
+	{
+		System.out.println("Thundering=================");
+	}
 
 static void println()
 {
